@@ -12,6 +12,6 @@ The program can be run by simply importing the app into Android Studio and then 
 
 
 Influences/Sources:<br>
-http://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-interface-creation--mobile-19021
-http://stackoverflow.com/questions/23059580/mediastore-images-media-insertimage-is-returning-null-when-trying-to-save-the-im
+http://code.tutsplus.com/tutorials/android-sdk-create-a-drawing-app-interface-creation--mobile-19021 <br>
+http://stackoverflow.com/questions/23059580/mediastore-images-media-insertimage-is-returning-null-when-trying-to-save-the-im <br>
 https://www.youtube.com/watch?v=2-mmH_nOE9Q&feature=youtu.be
